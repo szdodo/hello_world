@@ -14,7 +14,7 @@ def arg_length():
     else:
         return 1
 
-x=arg_length()
-print_greetings(x)
+argument=arg_length()
+print_greetings(argument)
 
 
